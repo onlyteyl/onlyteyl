@@ -85,7 +85,7 @@ When I'm not coding, I explore new design trends, experiment with creative tools
 </div>
 
 <div align="center">
-<img src="assets/what-i-offer.png" width="90%" />
+<img src="what-i-offer.png" width="90%" />
 </div>
 
 <div align="center">
@@ -104,7 +104,7 @@ When I'm not coding, I explore new design trends, experiment with creative tools
 
 <div align="center">
 
-<img src="assets/featured-work.png" width="90%" />
+<img src="featured-work.png" width="90%" />
 
 <sub>HOPE Website — <a href="https://www.hopeconnections.com.au/">view live site</a></sub>
 
